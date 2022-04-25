@@ -9,4 +9,7 @@ public class OrderConstants {
 	public static final String UNCHECKED = "unchecked";
 	public static final String BEARER = "Bearer ";
 	public static final String SOFTTEKJWT = "softtekJWT";
+
+	public static final String SUCCESS = "Order successfull";
+	public static final String ERROR = "Internal error";
 }
